@@ -1,8 +1,8 @@
 # Moving on
 
-I'm moving my FOSS code from Github to ![codeberg.org](https://codeberg.org/muro)
+I'm moving my FOSS code from Github to [codeberg.org](https://codeberg.org/muro)
 
-Here's the post from ![Software Freedom Conservancy](https://sfconservancy.org/blog/2022/jun/30/give-up-github-launch/) that encouraged me to do so.
+Here's the post from [Software Freedom Conservancy](https://sfconservancy.org/blog/2022/jun/30/give-up-github-launch/) that encouraged me to do so.
 
 GitHub is a proprietary, trade-secret system that is not Free and Open Souce Software
 (FOSS). I am deeply concerned about using a proprietary system like GitHub
